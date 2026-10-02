@@ -1,6 +1,6 @@
-station_id,station_name,radius_mm,chord_mm,beta_m_deg,target_cl,thickness_ratio_%,reynolds_number
-1,1_Hub,45.0,28.0,42.5,0.92,12.0,45000
-2,2_InnerMid,69.5,33.0,55.0,0.82,10.8,47200
-3,3_MidSpan_RMS,94.0,37.0,62.9,0.74,9.6,52500
-4,4_OuterMid,109.5,41.0,67.4,0.68,8.8,69000
-5,5_Tip,125.0,44.0,70.8,0.65,8.0,80000
+station_id,radius_mm,chord_mm,beta_m_deg,target_cl,thickness_ratio_%,reynolds_number
+1,32,75,41,0.36,12,45700
+2,73,24,62,0.76,11,29000
+3,94,33,63,0.74,10,52600
+4,110,44,62,0.72,9,80000
+5,125,56,61,0.70,8,117000
